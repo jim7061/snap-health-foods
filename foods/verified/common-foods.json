@@ -1,0 +1,19 @@
+{
+  "foods": [
+    {
+      "name": "Banana",
+      "barcode": null,
+      "nutrition_per_100g": {
+        "calories": 89,
+        "protein": 1.1,
+        "carbs": 22.8,
+        "fat": 0.3,
+        "fiber": 2.6
+      },
+      "common_portions": [
+        {"name": "medium banana", "grams": 118},
+        {"name": "large banana", "grams": 136}
+      ]
+    }
+  ]
+}
